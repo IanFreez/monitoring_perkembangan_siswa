@@ -1,0 +1,31 @@
+Id;Nama;MataPelajaran;PendidikanTerakhir;Kehadiran(%);KemampuanMengajar;PenguasaanMateri;Perangkat Pembelajaran;FeedbackSiswa;Kedisiplinan
+1;Guru001;Bahasa Indonesia;S2;100;10;10;9;10;10
+2;Guru002;Bahasa Indonesia;S2;96;10;8;10;9;10
+3;Guru003;Bahasa Indonesia;S2;95;8;9;8;10;9
+4;Guru004;Bahasa Jawa;S2;100;8;10;10;9;8
+5;Guru005;Bahasa Jawa;S2;95;9;9;8;8;9
+6;Guru006;Bahasa Jawa;S2;100;8;10;10;8;10
+7;Guru007;Bahasa Inggris;S2;80;9;8;9;10;9
+8;Guru008;Bahasa Inggris;S2;91;10;8;10;8;10
+9;Guru009;Bahasa Inggris;S2;67;6;7;6;6;5
+10;Guru010;IPA;S2;91;8;9;8;9;10
+11;Guru011;IPA;S2;96;8;8;10;8;10
+12;Guru012;IPA;S2;92;8;8;9;9;8
+13;Guru013;IPS;S2;99;8;10;8;9;9
+14;Guru014;IPS;S2;90;9;8;9;8;9
+15;Guru015;IPS;S2;50;5;6;4;5;6
+16;Guru016;Matematika;S2;98;8;8;8;10;10
+17;Guru017;Matematika;S2;93;10;10;9;8;9
+18;Guru018;Matematika;S2;90;10;8;9;10;9
+19;Guru019;PKN;S2;99;9;8;10;8;8
+20;Guru020;PKN;S2;99;10;8;9;10;8
+21;Guru021;PKN;S2;98;8;9;10;8;9
+22;Guru022;Penjaskes;S2;95;8;8;9;10;10
+23;Guru023;Penjaskes;S2;91;10;9;10;9;10
+24;Guru024;Penjaskes;S2;97;10;8;10;9;8
+25;Guru025;Seni Budaya;S2;100;10;10;10;10;10
+26;Guru026;Seni Budaya;S2;97;8;8;10;10;8
+27;Guru027;Seni Budaya;S2;93;9;8;10;8;8
+28;Guru028;TIK;S2;95;8;10;9;8;8
+29;Guru029;TIK;S2;100;9;10;10;9;10
+30;Guru030;TIK;S2;95;8;10;9;9;9
